@@ -1,6 +1,5 @@
 #include <iostream>
-#include "/home/kakehi/include/Eigen/Core"
-// #include <Eigen/core>
+#include <Eigen/core>
 
 using namespace Eigen;
 
